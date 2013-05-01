@@ -195,9 +195,5 @@ class Ezpdo {
     public function error_message() {
         return $this->_error_message;
     }
-    
-    public function to_string() {
-        var_dump($this->_conn);
-    }
 }
 /* end of ezpdo.php */
