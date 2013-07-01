@@ -1,4 +1,4 @@
 ezpdo
 =====
 
-A PHP PDO wrapper class.
+A PHP PDO wrapper class
